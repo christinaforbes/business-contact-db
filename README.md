@@ -52,5 +52,5 @@ Note: the "docs" folder contains the full conceptual and logical data models as 
 
 ## Constraints
 
-In addition to the constraints specified in the conceptual design (data dictionary), every employee can have only one address of each address type, one phone number of each phone number type, and one email address of each email address type.
+In addition to the constraints specified in the conceptual data model (data dictionary), every employee can have only 1 address of each address type, 1 phone number of each phone number type, and 1 email address of each email address type.
 
